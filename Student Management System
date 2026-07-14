@@ -1,0 +1,17 @@
+# Student Management System
+
+## Overview
+A simple Student Management System developed using Python and Django. The application helps manage student records.
+
+## Features
+- Add Student
+- Update Student
+- Delete Student
+- View Student List
+
+## Technologies Used
+- Python
+- Django
+- MySQL
+- HTML
+- CSS
