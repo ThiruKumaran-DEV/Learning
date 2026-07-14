@@ -1,0 +1,16 @@
+# Zomato Data Analysis
+
+## Overview
+Exploratory Data Analysis performed on a restaurant dataset using Python.
+
+## Features
+- Data Cleaning
+- Data Visualization
+- Restaurant Rating Analysis
+- Price Analysis
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
